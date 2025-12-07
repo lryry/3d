@@ -62,17 +62,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\RandomEncounter.cs" />
     <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\GameManager.cs" />
     <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\Door.cs" />
     <Compile Include="Assets\cin.cs" />
     <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\BattleSystem.cs" />
     <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\Trigger.cs" />
+    <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\MainMenu.cs" />
     <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\PlayerHealth.cs" />
     <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\InventoryUI.cs" />
     <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\CameraFollow.cs" />
+    <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\ExpBar.cs" />
     <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\EnemyEncounter.cs" />
+    <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\AudioManager.cs" />
+    <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\GameStartController.cs" />
     <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\FadeScript.cs" />
     <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\MoneyChest.cs" />
+    <Compile Include="Assets\HyperLuminal\2D Fantasy Forest Tileset\Scripts\SceneTeleporter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

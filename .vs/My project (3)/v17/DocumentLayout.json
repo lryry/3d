@@ -3,31 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\eran0\\My project (3)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|c:\\users\\eran0\\my project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\randomencounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\randomencounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\moneychest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\moneychest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\fadescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\fadescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|c:\\users\\eran0\\my project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\enemyencounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\enemyencounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\enemyencounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,12 +23,48 @@
       "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\trigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\sceneteleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\sceneteleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\expbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\expbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\moneychest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\moneychest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\fadescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\fadescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\gamestartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\gamestartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|C:\\Users\\eran0\\My project (3)\\assets\\hyperluminal\\2d fantasy forest tileset\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,91 +87,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MoneyChest.cs",
-              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\MoneyChest.cs",
-              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\MoneyChest.cs",
-              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\MoneyChest.cs",
-              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\MoneyChest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T10:59:21.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InventoryUI.cs",
-              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\InventoryUI.cs",
-              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\InventoryUI.cs",
-              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\InventoryUI.cs",
-              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\InventoryUI.cs",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAA8wJwAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T10:38:15.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T19:00:04.353Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Door.cs",
-              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\Door.cs",
-              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\Door.cs",
-              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\Door.cs",
-              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\Door.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "ExpBar.cs",
+              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\ExpBar.cs",
+              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\ExpBar.cs",
+              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\ExpBar.cs",
+              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\ExpBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:12:27.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Trigger.cs",
-              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\Trigger.cs",
-              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\Trigger.cs",
-              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\Trigger.cs",
-              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\Trigger.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAkwEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:13:45.636Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlayerHealth.cs",
-              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\PlayerHealth.cs",
-              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\PlayerHealth.cs",
-              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\PlayerHealth.cs",
-              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\PlayerHealth.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T09:19:29.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FadeScript.cs",
-              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\FadeScript.cs",
-              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\FadeScript.cs",
-              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\FadeScript.cs",
-              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\FadeScript.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwDEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T07:42:13.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T09:10:56.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T15:52:43.635Z"
             },
             {
               "$type": "Document",
@@ -157,39 +116,170 @@
               "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\BattleSystem.cs",
               "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\BattleSystem.cs",
               "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\BattleSystem.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAkwCsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T19:35:20.344Z",
+              "WhenOpened": "2025-12-06T17:40:29.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RandomEncounter.cs",
+              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\RandomEncounter.cs",
+              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\RandomEncounter.cs",
+              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\RandomEncounter.cs",
+              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\RandomEncounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T15:36:10.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SceneTeleporter.cs",
+              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\SceneTeleporter.cs",
+              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\SceneTeleporter.cs",
+              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\SceneTeleporter.cs",
+              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\SceneTeleporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T15:15:45.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryUI.cs",
+              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\InventoryUI.cs",
+              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\InventoryUI.cs",
+              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\InventoryUI.cs",
+              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\InventoryUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T10:38:15.288Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:10:56.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MoneyChest.cs",
+              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\MoneyChest.cs",
+              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\MoneyChest.cs",
+              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\MoneyChest.cs",
+              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\MoneyChest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T10:59:21.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\Door.cs",
+              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\Door.cs",
+              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\Door.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:12:27.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "EnemyEncounter.cs",
               "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\EnemyEncounter.cs",
               "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\EnemyEncounter.cs",
               "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\EnemyEncounter.cs",
               "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\EnemyEncounter.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAowG4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T05:57:03.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T05:57:03.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trigger.cs",
+              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\Trigger.cs",
+              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\Trigger.cs",
+              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\Trigger.cs",
+              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\Trigger.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:13:45.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FadeScript.cs",
+              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\FadeScript.cs",
+              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\FadeScript.cs",
+              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\FadeScript.cs",
+              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\FadeScript.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwDEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T07:42:13.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:19:29.728Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T10:39:10.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAUwG0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T14:21:36.787Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
+              "Title": "GameStartController.cs",
+              "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\GameStartController.cs",
+              "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\GameStartController.cs",
+              "ToolTip": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\GameStartController.cs",
+              "RelativeToolTip": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\GameStartController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T10:56:37.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "CameraFollow.cs",
               "DocumentMoniker": "C:\\Users\\eran0\\My project (3)\\Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\CameraFollow.cs",
               "RelativeDocumentMoniker": "Assets\\HyperLuminal\\2D Fantasy Forest Tileset\\Scripts\\CameraFollow.cs",

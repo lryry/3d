@@ -1,137 +1,69 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using System.Collections.Generic;
-
-[System.Serializable]
-public class MonsterInfo
-{
-    public string monsterName;
-    public Sprite battleSprite;
-    public int hp;
-}
 
 public class EnemyEncounter : MonoBehaviour
 {
-    [Header("이 자리에서 나올 몬스터 목록")]
-    public List<MonsterInfo> monsterPool = new List<MonsterInfo>();
-
-    [Header("잠금 설정")]
-    public bool requiresUnlock = false;
-
-    [Header("문 그림 설정 (선택 사항)")]
-    public Sprite OpenSprite;
-    public Sprite ClosedSprite;
-    private SpriteRenderer spriteRenderer;
-
-    private bool hasTriggeredBattle = false;
-
-    // ▼▼▼ [추가됨!] '현재' 문 상태 (열림/닫힘) ▼▼▼
-    private bool isDoorOpen = false;
-
-    void Start()
+    [System.Serializable]
+    public class MonsterInfo
     {
-        spriteRenderer = GetComponent<SpriteRenderer>();
-        isDoorOpen = false; // '시작'은 '닫힘' 상태
+        public string monsterName; // 몬스터 이름
+        public Sprite battleSprite; // 전투 때 쓸 사진 (필수!)
+        public int hp;              // 체력
 
-        if (requiresUnlock && spriteRenderer != null && ClosedSprite != null)
+        // ▼▼▼ [추가됨] 이제 돈이랑 경험치도 설정할 수 있어요! ▼▼▼
+        public int goldReward;      // 줄 돈
+        public int expReward;       // 줄 경험치
+    }
+
+    [Header("이 자리에서 나올 몬스터 목록 (여러 개 넣으면 랜덤)")]
+    public MonsterInfo[] monsterPool;
+
+    [Header("이동할 씬 이름")]
+    public string battleSceneName = "next";
+
+    // (참고) 충돌했을 때 전투 시작하는 기능 (Trigger)
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player"))
         {
-            spriteRenderer.sprite = ClosedSprite;
+            StartEncounter();
         }
     }
 
-    // ▼▼▼ [추가됨!] 'Trigger.cs'(상자)가 '원격'으로 '호출'할 '그림 변경' 함수! ▼▼▼
-    public void ToggleObject()
+    // (참고) 버튼으로 연결했다면 이 함수를 버튼에 연결하세요!
+    public void StartEncounter()
     {
-        // '닫혀'있었다면
-        if (!isDoorOpen)
+        if (monsterPool.Length == 0) return;
+
+        // 1. 목록에 있는 애들 중 랜덤으로 한 마리 뽑기
+        int randomIndex = Random.Range(0, monsterPool.Length);
+        MonsterInfo selectedMonster = monsterPool[randomIndex];
+
+        // 2. GameManager에 "이번엔 얘랑 싸웁니다!" 하고 완벽하게 보고하기
+        if (GameManager.instance != null)
         {
-            isDoorOpen = true; // '열림' 상태로 변경
-            if (spriteRenderer != null && OpenSprite != null)
+            // 기본 정보 전달
+            GameManager.instance.currentEnemyName = selectedMonster.monsterName;
+
+            // ★ [중요] 여기서 뽑힌 녀석(토끼면 토끼)의 사진을 넘겨줘야 사진이 바뀝니다!
+            GameManager.instance.currentEnemySprite = selectedMonster.battleSprite;
+
+            GameManager.instance.currentEnemyHP = selectedMonster.hp;
+
+            // ★ [중요] 돈이랑 경험치 정보 전달 (이게 없어서 안 줬던 것!)
+            GameManager.instance.currentRewardGold = selectedMonster.goldReward;
+            GameManager.instance.currentRewardExp = selectedMonster.expReward;
+
+            // 끝나고 돌아올 정보 저장
+            GameManager.instance.previousSceneName = SceneManager.GetActiveScene().name;
+            GameObject player = GameObject.FindGameObjectWithTag("Player");
+            if (player != null)
             {
-                spriteRenderer.sprite = OpenSprite; // '열린' 그림으로
+                GameManager.instance.playerPositionBeforeBattle = player.transform.position;
             }
         }
-        else // '열려'있었다면
-        {
-            isDoorOpen = false; // '닫힘' 상태로 변경
-            if (spriteRenderer != null && ClosedSprite != null)
-            {
-                spriteRenderer.sprite = ClosedSprite; // '닫힌' 그림으로
-            }
-        }
-    }
 
-
-    void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.CompareTag("Player") && !hasTriggeredBattle)
-        {
-            if (requiresUnlock)
-            {
-                // 'GameManager'에 '신호'가 '없다면' (상자를 안 먹었다면)
-                if (GameManager.instance != null && !GameManager.instance.isDungeonDoorUnlocked)
-                {
-                    Debug.Log("문이 잠겨있다. 상자를 먼저 찾아야 한다.");
-                    return;
-                }
-
-                // '상자'를 '이미' 먹었으니 '그림'을 '열린' 상태로 '유지' (혹시 모르니)
-                if (spriteRenderer != null && OpenSprite != null && !isDoorOpen)
-                {
-                    isDoorOpen = true;
-                    spriteRenderer.sprite = OpenSprite;
-                }
-            }
-
-            if (monsterPool.Count == 0)
-            {
-                Debug.LogError("EnemyEncounter: 'Monster Pool'에 몬스터가 1마리도 없습니다!");
-                return;
-            }
-
-            MonsterInfo chosenMonster = monsterPool[Random.Range(0, monsterPool.Count)];
-
-            if (GameManager.instance != null)
-            {
-                GameManager.instance.currentEnemyName = chosenMonster.monsterName;
-                GameManager.instance.currentEnemyBattleSprite = chosenMonster.battleSprite;
-                GameManager.instance.currentEnemyHP = chosenMonster.hp;
-            }
-            else
-            {
-                Debug.LogError("GameManager가 씬에 없습니다!");
-                return;
-            }
-
-            Debug.Log(chosenMonster.monsterName + "을(를) 만났습니다.");
-
-            hasTriggeredBattle = true;
-            SceneManager.LoadScene("Next");
-        }
-    }
-
-    void OnEnable()
-    {
-        SceneManager.sceneLoaded += OnSceneLoaded;
-    }
-
-    void OnDisable()
-    {
-        SceneManager.sceneLoaded -= OnSceneLoaded;
-    }
-
-    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
-    {
-        if (scene.name == "DayTime_DemoScene")
-        {
-            hasTriggeredBattle = false;
-
-            // '마을'로 '돌아오면' '문'을 '다시' '닫습니다'!
-            if (requiresUnlock && spriteRenderer != null && ClosedSprite != null)
-            {
-                isDoorOpen = false; // '닫힘' 상태로
-                spriteRenderer.sprite = ClosedSprite;
-            }
-        }
+        // 3. 전투 씬으로 이동!
+        SceneManager.LoadScene(battleSceneName);
     }
 }
